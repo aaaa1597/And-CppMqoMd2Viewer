@@ -1,0 +1,2 @@
+# And-CppMqoMd2Viewer
+Mqo形式とMd2形式の3Dモデルを表示するプログラム
